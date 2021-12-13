@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView mRecyclerview;
     ArrayList<Model> dataholder = new ArrayList<Model>();                                               //Array list to add reminders and display in recyclerview
     myAdapter adapter;
-
+gtuygkjhik;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
